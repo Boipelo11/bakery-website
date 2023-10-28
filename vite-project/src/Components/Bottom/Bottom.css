@@ -1,0 +1,27 @@
+.btm-line{
+    text-align: left;
+    color: #fff;
+    font-size: 40px
+
+}
+
+.btm-content{
+    justify-content: center;
+    margin-left: 20px;
+    align-items: center;
+
+
+}
+.btm-img{
+    background-size: cover;
+    background-position: center;
+    height: 48vh;
+    max-width: 100%;
+}
+
+.btm-icons{
+    display: flex;
+    color: yellow;
+    width: 400px
+    
+}

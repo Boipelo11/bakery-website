@@ -1,0 +1,31 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(242, 11, 96); 
+    color: pink; 
+    padding: 55px; 
+  }
+  
+  .footer-logo {
+   color: pink
+  }
+  
+  .footer-logo h2 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-content ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .footer-content li {
+    margin-right: 20px; 
+  }
+  
+  .footer-content li:last-child {
+    margin-right: 0; 
+  }
+  

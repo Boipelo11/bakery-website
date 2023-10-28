@@ -1,0 +1,44 @@
+.Intro{
+    margin: 20px;
+    display: flex;
+    margin-bottom: 250px;
+
+}
+
+.left-content{
+    max-width: 50%;
+    height: 97px;
+}
+
+.intro-img{
+    max-width: 100%;
+    border-radius: 10px;
+    height: 325px;
+}
+.right-content{
+         max-width: 50%;
+        height: 97px;
+        margin: 20px;
+        text-align:justify;
+    
+}
+
+.intro-header{
+    font-weight:900;
+    color: #999;
+    margin-bottom: 15px;
+}
+
+p{
+    color: #555;
+}
+
+.intro-btn{
+    padding: 10px;
+    border: 1px solid rgb(242, 11, 96);
+    border-radius: 10px;
+    background-color: rgb(242, 11, 96);
+    color: #fff;
+    margin-top: 20px;
+}
+
