@@ -14,18 +14,12 @@
     display: flex;
     align-items: center;
   }
-  
-  .footer-content ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
+
+  .footer-content{
+    color: pink;
   }
   
-  .footer-content li {
-    margin-right: 20px; 
-  }
-  
-  .footer-content li:last-child {
-    margin-right: 0; 
+  .address{
+    color: pink
   }
   
