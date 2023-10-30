@@ -1,5 +1,6 @@
 import './Intro.css'
 import intro from '../../assets/intro.jpg'
+import { Link } from 'react-router-dom'
 
 
 const Intro = () => {
@@ -10,8 +11,13 @@ const Intro = () => {
     </div>
     <div className="right-content">
     <h2 className="intro-header">12 Years and Counting...</h2>
-    <p>In the heart of Krugersdorp, nestled on Oak Street, Mrs. Grace Miller, a passionate baker with a lifelong dream, started Oh-So-Fluffy.<br/> With the scent of freshly baked bread wafting through the town, her cozy bakery quickly became a beloved local spot. Residents flocked to savor her delectable pastries and hear the heartwarming tales of her culinary journey.<br/> Today, Sunrise Delights stands as a cherished Krugersdorp institution, a testament to Mrs. Millers dedication and the towns love for her creations.</p>
+    <p>We celebrate 12 years of excellence and consistent serving of the best baked goods. Our story dates back in 2011 when Grace Miller chose to follow her dream </p>
+    <p>as a teacher in Krugersdorp Highschool. Today, we are proud to have grown into what we are today, with 12 staff members and more than 125 customers coming in weekly.</p>
+    <p>We hope to share many more delightful tastes and memories with all our beloved customers and community. With Love, Oh-So-Fluff!</p>
+    < Link to="/ourstory">
     <button className="intro-btn">Our Story</button>
+    </Link>
+   
     </div>
     
     </div>

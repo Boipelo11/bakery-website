@@ -9,7 +9,7 @@ const Ourstory = () => {
     </div>
     <div className="right-content">
     <h2 className="intro-header">Get To Know Us</h2>
-    <p>In the heart of Krugersdorp, nestled on Oak Street, Mrs. Grace Miller, a passionate baker with a lifelong dream, started Oh-So-Fluff.</p>
+    <p>In the heart of Krugersdorp, nestled on Oakland Street, Mrs. Grace Miller, a passionate baker with a lifelong dream, started Oh-So-Fluff.</p>
     
   <p>With the scent of freshly baked bread wafting through the town, her cozy bakery quickly became a beloved local spot. Residents flocked to savor her delectable pastries and hear the heartwarming tales of her culinary journey.</p>
   <br/>

@@ -11,6 +11,7 @@ import Menu from '../../vite-project/src/Pages/Menu/Menu'
 import './App.css'
 
 function App() {
+  //Layout for all pages to have the navbar and the footer appear 
   const Layout = () => {
     return (
       <>
@@ -24,7 +25,7 @@ function App() {
     {
       path: "/",
       element: <Layout/>,
-      children: [
+      children: [ //pages listed as children of the layout element
         {
           path: "/",
           element: <Home/>,
